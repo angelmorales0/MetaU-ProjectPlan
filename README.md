@@ -1,7 +1,7 @@
 # MetaU-ProjectPlan
 https://docs.google.com/document/d/1z3VNtQCeqah-ziPBTaUWMIGi3knVGfOFQyxfNEEABPo/edit?usp=sharing
 
-WIRE FRAME LIN -> https://excalidraw.com/#json=RYCr8z5DIrV83PEQJg35D,9JmviYHEi3arbjXY0RkCwA
+WIRE FRAME -> https://excalidraw.com/#json=RYCr8z5DIrV83PEQJg35D,9JmviYHEi3arbjXY0RkCwA
 
 Meta University Eng Project Plan Template     
 Project Guide.
